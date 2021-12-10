@@ -1,2 +1,2 @@
 #!/bin/bash
-systemctl restart noip2.service
+/bin/systemctl restart noip2.service

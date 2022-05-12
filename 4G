@@ -1,3 +1,1 @@
-vmess = toanthinh.ddns.net:80, method=chacha20-ietf-poly1305, password=e389539e-9512-4f34-bb75-13bdcf7287fe, obfs=ws, obfs-host=Livestream2.tv360.vn, obfs-uri=/, fast-open=false, udp-relay=false, tag=VIP
-vmess = 172.105.118.232:80, method=chacha20-ietf-poly1305, password=1d5c822a-f474-4d47-cd5e-1c345b2b9229, obfs=ws, obfs-host=livestream2.tv360.vn, obfs-uri=/, fast-open=false, udp-relay=false, tag=🇸🇬 Singapore 🇸🇬
-vmess = 172.104.164.44:80, method=chacha20-ietf-poly1305, password=a7fc4a79-a54d-404b-f251-af76e0219aaa, obfs=ws, obfs-host=livestream2.tv360.vn, obfs-uri=/, fast-open=false, udp-relay=false, tag=🇸🇬 Noip Singapore
+vmess = toanthinh.ddns.net:80, method=chacha20-ietf-poly1305, password=e389539e-9512-4f34-bb75-13bdcf7287fe, obfs=ws, obfs-host=tv.akamaized.net, obfs-uri=/, fast-open=false, udp-relay=false, tag=4G Viettel

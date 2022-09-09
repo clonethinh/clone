@@ -1,2 +1,2 @@
 vmess = toanthinh.ddns.net:80, method=chacha20-ietf-poly1305, password=e389539e-9512-4f34-bb75-13bdcf7287fe, aead=true, obfs=ws, obfs-host=dl.ops.kgvn.garenanow.com, obfs-uri=/, fast-open=false, udp-relay=false, tag=4G Viettel
-vmess = vn1.dvsteam.net:80, method=chacha20-ietf-poly1305, password=e55cd4ee-04fb-4fae-a210-e81edcc5c003, aead=true, obfs=ws, obfs-host=dl.ops.kgvn.garenanow.com, obfs-uri=/, fast-open=false, udp-relay=false, tag=4G Viettel No limit
+vmess = vn1.dvsteam.net:80, method=auto, password=e55cd4ee-04fb-4fae-a210-e81edcc5c003, aead=true, obfs=ws, obfs-host=dl.ops.kgvn.garenanow.com, obfs-uri=/, fast-open=false, udp-relay=false, tag=4G Viettel No limit

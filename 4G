@@ -1,1 +1,1 @@
-vmess = toanthinh.ddns.net:80, method=chacha20-ietf-poly1305, password=e389539e-9512-4f34-bb75-13bdcf7287fe, aead=true, obfs=ws, obfs-host=imuzik.viettel.vn, obfs-uri=/, fast-open=false, udp-relay=false, tag=4G Viettel
+vmess = toanthinh.ddns.net:80, method=chacha20-ietf-poly1305, password=e389539e-9512-4f34-bb75-13bdcf7287fe, aead=true, obfs=ws, obfs-host=imedia.imuzik.com.vn, obfs-uri=/, fast-open=false, udp-relay=false, tag=4G Viettel
